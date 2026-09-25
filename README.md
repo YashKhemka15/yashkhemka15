@@ -1,26 +1,25 @@
-👋 Hi, I'm Yash Khemka
-🚀 About Me
-I am a dynamic, results-oriented professional with a passion for converting complex data into solutions that drive tangible business value[cite: 1]. As outlined in my Blue and White Clean and Professional Resume.pdf, I specialize in leading teams, building scalable data architectures, and delivering AI-powered tools that enhance efficiency and decision-making[cite: 1]. Currently, I am pursuing my MSc in Analytics and AI at ESMT Berlin, building upon a strong foundation established during my BTech in Computer Science and Engineering[cite: 1].
+# 👋 Hi, I'm Yash Khemka
 
-In my previous roles, including my time as a Senior Associate at PwC, I successfully integrated Generative AI frameworks, optimized data pipelines, and prioritized strict data quality and compliance standards[cite: 1]. I thrive in respectful, collaborative environments and continuously seek opportunities where technology can be leveraged to accelerate business outcomes[cite: 1].
+## 🚀 About Me
 
-💻 Skills & Technologies
-Core Competencies: Data Analysis, Machine Learning, Data Engineering, and Data Quality[cite: 1].
+I am a dynamic, results-oriented professional with a passion for converting complex data into solutions that drive tangible business value. As outlined in my Blue and White Clean and Professional Resume.pdf, I specialize in leading teams, building scalable data architectures, and delivering AI-powered tools that enhance efficiency and decision-making. Currently, I am pursuing my MSc in Analytics and AI at ESMT Berlin, building upon a strong foundation established during my BTech in Computer Science and Engineering.
 
-Advanced AI: Generative AI frameworks, Microsoft AI Services, and Multi Tool AI Agents[cite: 1].
+In my previous roles, including my time as a Senior Associate at PwC, I successfully integrated Generative AI frameworks, optimized data pipelines, and prioritized strict data quality and compliance standards. I thrive in respectful, collaborative environments and continuously seek opportunities where technology can be leveraged to accelerate business outcomes.
 
-📈 Featured Projects
-Data Architecture Redesign: Deconstructed high-level client requests into actionable technical blueprints, driving the end-to-end redesign of data products to enhance reporting capabilities[cite: 1].
+## 💻 Skills & Technologies
 
-AI-Powered Tax Data Analysis: Integrated Microsoft AI services to achieve 80%+ accuracy in key value extraction, reducing manual review times by 50%[cite: 1].
+* **Core Competencies:** Data Analysis, Machine Learning, Data Engineering, and Data Quality.
+* **Advanced AI:** Generative AI frameworks, Microsoft AI Services, and Multi Tool AI Agents.
 
-GenAI 3D Model Generator: Developed a Python Streamlit application leveraging OpenAI's Point-E model to generate exportable 3D models directly from natural language descriptions[cite: 1].
+## 📈 Featured Projects
 
-Automated Data Quality Pipelines: Designed orchestrated pipelines in Databricks/Delta Lake to monitor business rules, ensuring 99% compliance with downstream data integrity requirements[cite: 1].
+* **Data Architecture Redesign:** Deconstructed high-level client requests into actionable technical blueprints, driving the end-to-end redesign of data products to enhance reporting capabilities.
+* **AI-Powered Tax Data Analysis:** Integrated Microsoft AI services to achieve 80%+ accuracy in key value extraction, reducing manual review times by 50%.
+* **GenAI 3D Model Generator:** Developed a Python Streamlit application leveraging OpenAI's Point-E model to generate exportable 3D models directly from natural language descriptions.
+* **Automated Data Quality Pipelines:** Designed orchestrated pipelines in Databricks/Delta Lake to monitor business rules, ensuring 99% compliance with downstream data integrity requirements.
 
-📫 Contact Information
-Location: Berlin, Germany
+## 📫 Contact Information
 
-Email: yashkhemka2002@gmail.com
-
-Let's Connect: https://www.linkedin.com/in/yash-khemka-4433961a4/
+* **Location:** Berlin, Germany
+* **Email:** yashkhemka2002@gmail.com
+* **Let's Connect:**  https://www.linkedin.com/in/yash-khemka-4433961a4/
